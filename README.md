@@ -1,13 +1,13 @@
-# SizeChart module for Magento PWA Studio
+# Size Chart module for Magento PWA Studio
 
-This module acts as an add-on for [Mageplaza's SizeChart extension](https://www.mageplaza.com/magento-2-size-chart/) to make it work with Magento PWA Studio.
+This module acts as an add-on for [Mageplaza's Size Chart extension](https://www.mageplaza.com/magento-2-size-chart/) to make it work with Magento PWA Studio.
 
 End result: https://sizechart.pwa-commerce.com/juno-sweater.html
 
 ## Requirements
 
 - Magento version 2.4.* or >= 2.3.5
-- Got [Mageplaza SizeChart extension](https://www.mageplaza.com/magento-2-size-chart/) and [SizeChart GraphQL](https://github.com/mageplaza/magento-2-size-chart-graphql) installed
+- Got [Mageplaza Size Chart extension](https://www.mageplaza.com/magento-2-size-chart/) and [Size Chart GraphQL](https://github.com/mageplaza/magento-2-size-chart-graphql) installed
 
 ## Installation
 
@@ -50,3 +50,7 @@ Modify the dependencies of your project to add SizeChart extension.
 ```
   yarn install && yarn watch
 ```
+
+## Contribution
+
+[SimiCart Team](https://www.simicart.com/pwa.html/) & [Mageplaza Team](https://www.mageplaza.com/)
