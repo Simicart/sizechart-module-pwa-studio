@@ -13,11 +13,10 @@ End result: https://sizechart.pwa-commerce.com/juno-sweater.html
 
 ### 1. Init project
 ```
-npm init @magento/pwa@1.1.2
+git clone https://github.com/Simicart/simi-studio --branch release/2.0.0
+cd simi-studio
 yarn add @material-ui/core
 ```
-
-Fill in your project information and `cd` into it.
 
 ### 2. Start the project
 
@@ -40,7 +39,7 @@ Modify the dependencies of your project to add SizeChart extension.
 
 ```
   "dependencies": {
-    "@magento/pwa-buildpack": "~7.0.0",
+    ...
     "@simicart/sizechart": "link:./@simicart/sizechart"
   },
 ```
