@@ -49,3 +49,7 @@ Modify the dependencies of your project to add SizeChart extension.
 ```
   yarn install && yarn watch
 ```
+
+## Contribution
+
+[SimiCart Team](https://www.simicart.com/pwa.html/) & [Mageplaza Team](https://www.mageplaza.com/)
